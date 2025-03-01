@@ -1,0 +1,501 @@
+Marka,Model,Yıl,Kilometre,Yakıt Türü,Vites Türü,Motor Hacmi,Güç (HP),Renk,Durum,Fiyat (TL)
+Audi,A4,2023,252574,Hibrit,Otomatik,2.7,285,Siyah,Sıfır,152461
+BMW,320i,2017,296901,Dizel,Otomatik,2.3,305,Beyaz,İkinci El,488246
+Honda,Civic,2002,192834,Elektrikli,Manuel,2.6,161,Mavi,İkinci El,361361
+Tesla,Model 3,2024,229193,Benzin,Manuel,1.8,352,Gri,Sıfır,83346
+Volkswagen,Golf,2013,125764,Benzin,Manuel,2.4,373,Beyaz,Sıfır,290353
+Toyota,Corolla,2010,99650,Elektrikli,Otomatik,3.0,368,Gri,Sıfır,149584
+Nissan,Altima,2014,46920,Dizel,Otomatik,3.3,291,Mavi,Sıfır,317015
+Nissan,Altima,2017,157318,Hibrit,Otomatik,4.0,295,Gri,İkinci El,350298
+Ford,Focus,2018,168878,Hibrit,Manuel,2.5,71,Kırmızı,Sıfır,160875
+Ford,Focus,2022,188609,Benzin,Manuel,1.1,101,Gri,Sıfır,440758
+Toyota,Corolla,2015,219714,Dizel,Otomatik,3.2,99,Mavi,Sıfır,218071
+Tesla,Model 3,2005,10777,Hibrit,Manuel,2.1,349,Kırmızı,İkinci El,312624
+Audi,A4,2018,167433,Dizel,Manuel,1.5,163,Kırmızı,Sıfır,409192
+Toyota,Corolla,2009,84499,Elektrikli,Manuel,2.4,361,Gri,İkinci El,184001
+Mercedes,C-Class,2011,53249,Hibrit,Otomatik,2.0,165,Mavi,İkinci El,366915
+Nissan,Altima,2007,136921,Hibrit,Manuel,1.0,368,Siyah,Sıfır,449663
+Volkswagen,Golf,2002,133862,Dizel,Manuel,1.7,137,Beyaz,Sıfır,60017
+Honda,Civic,2011,196398,Benzin,Manuel,3.3,289,Gri,Sıfır,476159
+Volkswagen,Golf,2000,40367,Benzin,Manuel,3.7,205,Kırmızı,İkinci El,351805
+Honda,Civic,2006,207178,Dizel,Manuel,3.2,256,Mavi,Sıfır,182839
+Nissan,Altima,2016,150896,Hibrit,Manuel,2.6,293,Beyaz,Sıfır,95147
+Volkswagen,Golf,2014,117870,Hibrit,Manuel,1.9,147,Gri,İkinci El,150759
+Volkswagen,Golf,2011,93004,Benzin,Manuel,1.2,62,Beyaz,Sıfır,125891
+Nissan,Altima,2011,270814,Dizel,Manuel,3.4,203,Mavi,İkinci El,326335
+Mercedes,C-Class,2022,174833,Dizel,Otomatik,2.7,400,Mavi,Sıfır,368959
+Volkswagen,Golf,2005,298184,Hibrit,Otomatik,2.2,238,Kırmızı,İkinci El,256298
+Ford,Focus,2007,243042,Benzin,Manuel,2.6,385,Beyaz,İkinci El,345216
+Toyota,Corolla,2020,159140,Dizel,Manuel,2.5,102,Mavi,İkinci El,385540
+Toyota,Corolla,2007,177810,Elektrikli,Manuel,2.7,169,Mavi,İkinci El,60400
+Volkswagen,Golf,2019,213535,Dizel,Otomatik,2.9,245,Mavi,Sıfır,186361
+Audi,A4,2008,272536,Hibrit,Manuel,2.8,227,Kırmızı,Sıfır,192510
+Ford,Focus,2019,80887,Benzin,Manuel,1.5,218,Kırmızı,İkinci El,103218
+BMW,320i,2022,265648,Elektrikli,Manuel,3.4,378,Siyah,Sıfır,307346
+Toyota,Corolla,2002,129302,Elektrikli,Manuel,2.2,342,Kırmızı,Sıfır,103453
+Tesla,Model 3,2022,125322,Elektrikli,Manuel,1.5,250,Mavi,Sıfır,445763
+Mercedes,C-Class,2016,285469,Dizel,Otomatik,2.6,330,Beyaz,İkinci El,366115
+Audi,A4,2004,47258,Hibrit,Otomatik,1.9,175,Siyah,Sıfır,227184
+Toyota,Corolla,2009,66067,Dizel,Otomatik,2.4,245,Siyah,Sıfır,435547
+Volkswagen,Golf,2006,70967,Dizel,Manuel,2.4,123,Beyaz,Sıfır,225887
+Ford,Focus,2021,164515,Dizel,Manuel,1.7,128,Kırmızı,İkinci El,180014
+Toyota,Corolla,2023,59128,Benzin,Otomatik,2.6,116,Beyaz,İkinci El,407069
+Ford,Focus,2013,281960,Elektrikli,Otomatik,1.3,381,Mavi,İkinci El,79165
+Mercedes,C-Class,2015,143129,Hibrit,Manuel,2.0,189,Kırmızı,Sıfır,323166
+Audi,A4,2007,83413,Dizel,Manuel,2.8,270,Siyah,Sıfır,348174
+Honda,Civic,2008,63962,Elektrikli,Manuel,3.9,299,Siyah,Sıfır,186756
+Audi,A4,2013,108232,Dizel,Manuel,2.1,121,Beyaz,İkinci El,371996
+Mercedes,C-Class,2022,89802,Benzin,Manuel,1.9,68,Kırmızı,Sıfır,258938
+Volkswagen,Golf,2020,85620,Hibrit,Manuel,1.9,131,Kırmızı,Sıfır,422499
+Honda,Civic,2012,82330,Hibrit,Otomatik,1.4,270,Gri,İkinci El,443367
+Mercedes,C-Class,2018,209800,Hibrit,Manuel,2.9,367,Mavi,Sıfır,488347
+Honda,Civic,2017,157593,Dizel,Otomatik,1.4,195,Beyaz,Sıfır,195643
+Ford,Focus,2007,32794,Dizel,Otomatik,3.8,310,Mavi,İkinci El,85832
+Tesla,Model 3,2008,270299,Hibrit,Manuel,2.7,206,Mavi,Sıfır,402746
+Ford,Focus,2024,29818,Elektrikli,Manuel,2.2,118,Kırmızı,Sıfır,154652
+Ford,Focus,2024,264863,Elektrikli,Otomatik,1.3,274,Gri,İkinci El,163134
+Toyota,Corolla,2016,80573,Benzin,Manuel,2.9,288,Mavi,İkinci El,316742
+Tesla,Model 3,2024,269896,Benzin,Otomatik,2.0,75,Siyah,İkinci El,153974
+Ford,Focus,2011,64847,Elektrikli,Manuel,2.4,397,Kırmızı,Sıfır,430316
+Toyota,Corolla,2004,12752,Dizel,Otomatik,2.2,109,Gri,İkinci El,138787
+Tesla,Model 3,2013,61234,Benzin,Otomatik,2.0,258,Gri,Sıfır,93004
+Tesla,Model 3,2021,51888,Hibrit,Manuel,1.9,229,Beyaz,İkinci El,61527
+Audi,A4,2013,285754,Elektrikli,Manuel,4.0,207,Siyah,İkinci El,116178
+Audi,A4,2002,61589,Benzin,Manuel,3.8,193,Gri,Sıfır,159450
+Ford,Focus,2005,229278,Benzin,Otomatik,3.9,259,Mavi,İkinci El,490197
+Ford,Focus,2012,223480,Hibrit,Otomatik,3.0,248,Mavi,Sıfır,268365
+Mercedes,C-Class,2012,265916,Hibrit,Manuel,1.3,308,Beyaz,İkinci El,94471
+BMW,320i,2016,18073,Elektrikli,Manuel,2.7,270,Gri,İkinci El,405670
+Honda,Civic,2017,18758,Dizel,Manuel,1.8,330,Gri,İkinci El,207807
+Ford,Focus,2019,40715,Elektrikli,Manuel,3.7,235,Kırmızı,İkinci El,402315
+Mercedes,C-Class,2001,233914,Dizel,Manuel,2.9,163,Beyaz,Sıfır,112666
+Mercedes,C-Class,2022,224418,Elektrikli,Manuel,3.1,113,Kırmızı,İkinci El,314661
+Tesla,Model 3,2011,260915,Hibrit,Manuel,3.0,256,Beyaz,Sıfır,476981
+Toyota,Corolla,2005,188670,Elektrikli,Otomatik,1.7,364,Mavi,İkinci El,200501
+Audi,A4,2001,141136,Hibrit,Manuel,3.1,219,Mavi,Sıfır,330725
+Tesla,Model 3,2010,46287,Elektrikli,Manuel,1.4,63,Mavi,Sıfır,357342
+Tesla,Model 3,2005,148816,Hibrit,Otomatik,2.9,137,Beyaz,İkinci El,359597
+Nissan,Altima,2019,269551,Hibrit,Manuel,1.2,338,Beyaz,Sıfır,121848
+Mercedes,C-Class,2011,95709,Hibrit,Otomatik,3.3,331,Beyaz,Sıfır,403414
+Tesla,Model 3,2007,58152,Dizel,Manuel,2.4,358,Gri,İkinci El,354616
+Toyota,Corolla,2020,100566,Hibrit,Otomatik,2.3,154,Gri,İkinci El,311672
+Mercedes,C-Class,2011,139654,Hibrit,Otomatik,1.6,108,Siyah,Sıfır,269635
+Honda,Civic,2019,242292,Benzin,Otomatik,2.3,326,Kırmızı,İkinci El,101968
+BMW,320i,2019,63888,Dizel,Otomatik,1.0,136,Mavi,İkinci El,436221
+Tesla,Model 3,2015,41310,Hibrit,Manuel,3.5,341,Siyah,İkinci El,328433
+Tesla,Model 3,2006,85316,Hibrit,Manuel,1.7,277,Beyaz,Sıfır,313030
+Toyota,Corolla,2002,28058,Dizel,Otomatik,3.0,363,Beyaz,Sıfır,194859
+BMW,320i,2019,233895,Elektrikli,Otomatik,1.2,129,Mavi,İkinci El,165796
+Ford,Focus,2008,148334,Dizel,Manuel,1.6,232,Siyah,Sıfır,422788
+Toyota,Corolla,2009,50418,Benzin,Otomatik,3.8,131,Gri,İkinci El,481782
+Toyota,Corolla,2018,60798,Elektrikli,Manuel,1.7,128,Kırmızı,Sıfır,402622
+Toyota,Corolla,2003,116598,Elektrikli,Manuel,1.8,362,Gri,Sıfır,243141
+Mercedes,C-Class,2023,117035,Benzin,Otomatik,2.8,198,Gri,İkinci El,335886
+Ford,Focus,2006,220065,Benzin,Manuel,3.7,68,Beyaz,Sıfır,387539
+Mercedes,C-Class,2001,298501,Dizel,Otomatik,1.2,81,Gri,Sıfır,134238
+BMW,320i,2001,182450,Elektrikli,Otomatik,2.0,142,Gri,İkinci El,296951
+Nissan,Altima,2000,141844,Hibrit,Otomatik,2.5,332,Kırmızı,Sıfır,142950
+Mercedes,C-Class,2012,183426,Benzin,Manuel,1.3,188,Mavi,İkinci El,71739
+Ford,Focus,2024,178988,Hibrit,Otomatik,1.4,381,Beyaz,Sıfır,230071
+Audi,A4,2001,225296,Hibrit,Manuel,3.2,107,Gri,Sıfır,297609
+Audi,A4,2002,101610,Dizel,Manuel,3.7,330,Kırmızı,İkinci El,143980
+Tesla,Model 3,2022,163928,Hibrit,Manuel,3.9,147,Mavi,İkinci El,242873
+Audi,A4,2007,23212,Dizel,Otomatik,3.4,327,Gri,Sıfır,65400
+Mercedes,C-Class,2010,147605,Elektrikli,Manuel,2.2,337,Beyaz,Sıfır,254288
+Nissan,Altima,2003,233810,Benzin,Otomatik,2.0,195,Beyaz,Sıfır,378410
+Mercedes,C-Class,2005,86612,Benzin,Otomatik,1.6,296,Siyah,Sıfır,309942
+Nissan,Altima,2017,69756,Elektrikli,Otomatik,1.7,180,Mavi,İkinci El,396007
+BMW,320i,2009,295658,Benzin,Manuel,3.4,334,Mavi,Sıfır,70424
+Volkswagen,Golf,2024,90729,Dizel,Manuel,3.7,219,Gri,İkinci El,120051
+Nissan,Altima,2009,193079,Dizel,Manuel,2.2,396,Kırmızı,Sıfır,55279
+BMW,320i,2020,251762,Hibrit,Otomatik,3.2,253,Siyah,İkinci El,292790
+Nissan,Altima,2021,165527,Hibrit,Manuel,3.0,92,Gri,Sıfır,407373
+Ford,Focus,2012,24037,Benzin,Manuel,1.3,129,Siyah,Sıfır,496662
+Nissan,Altima,2019,135244,Benzin,Manuel,3.1,124,Mavi,Sıfır,492180
+Volkswagen,Golf,2014,52639,Hibrit,Manuel,3.6,104,Siyah,İkinci El,460161
+Mercedes,C-Class,2018,142046,Hibrit,Manuel,1.3,270,Kırmızı,Sıfır,401148
+Tesla,Model 3,2000,39650,Dizel,Manuel,1.1,191,Beyaz,İkinci El,231467
+Volkswagen,Golf,2007,110587,Hibrit,Manuel,3.8,128,Siyah,Sıfır,260564
+Toyota,Corolla,2021,230806,Hibrit,Manuel,1.3,329,Mavi,Sıfır,154009
+Volkswagen,Golf,2000,50721,Elektrikli,Otomatik,1.9,199,Gri,Sıfır,66596
+Tesla,Model 3,2002,229812,Hibrit,Otomatik,3.2,278,Mavi,İkinci El,377158
+Ford,Focus,2000,178497,Dizel,Manuel,1.2,379,Mavi,İkinci El,401255
+Ford,Focus,2013,253138,Benzin,Manuel,1.5,390,Beyaz,Sıfır,300428
+Ford,Focus,2010,160068,Benzin,Manuel,3.0,316,Kırmızı,İkinci El,299745
+BMW,320i,2016,58071,Elektrikli,Manuel,3.5,121,Mavi,İkinci El,65804
+BMW,320i,2012,144267,Hibrit,Manuel,2.0,234,Beyaz,İkinci El,403041
+Nissan,Altima,2017,75934,Elektrikli,Otomatik,1.8,115,Beyaz,İkinci El,233160
+Tesla,Model 3,2011,293155,Hibrit,Manuel,4.0,242,Mavi,İkinci El,176485
+Ford,Focus,2015,236679,Benzin,Otomatik,2.1,192,Beyaz,Sıfır,179928
+Ford,Focus,2004,297829,Hibrit,Manuel,2.2,188,Gri,İkinci El,376281
+Toyota,Corolla,2013,62938,Hibrit,Manuel,1.1,178,Kırmızı,İkinci El,347865
+Honda,Civic,2005,88085,Benzin,Manuel,3.5,334,Gri,İkinci El,157573
+Audi,A4,2011,108915,Dizel,Otomatik,2.4,123,Siyah,İkinci El,433623
+Toyota,Corolla,2020,8791,Benzin,Manuel,1.4,245,Gri,Sıfır,251525
+Toyota,Corolla,2002,23832,Hibrit,Otomatik,1.4,197,Beyaz,Sıfır,391478
+Ford,Focus,2010,12070,Benzin,Manuel,1.6,323,Beyaz,Sıfır,210696
+Tesla,Model 3,2003,175778,Benzin,Manuel,3.7,112,Siyah,Sıfır,88994
+Ford,Focus,2001,89976,Elektrikli,Manuel,2.7,75,Mavi,Sıfır,230506
+Mercedes,C-Class,2011,208902,Benzin,Manuel,1.1,277,Mavi,İkinci El,266061
+Tesla,Model 3,2006,256836,Dizel,Manuel,2.8,318,Gri,İkinci El,272747
+Tesla,Model 3,2024,207492,Dizel,Otomatik,1.9,399,Gri,İkinci El,337432
+Volkswagen,Golf,2001,212478,Dizel,Manuel,3.9,96,Siyah,Sıfır,214562
+Ford,Focus,2015,140698,Elektrikli,Otomatik,2.8,333,Beyaz,Sıfır,300686
+Ford,Focus,2016,46281,Dizel,Otomatik,2.8,283,Siyah,İkinci El,490855
+Tesla,Model 3,2020,22096,Dizel,Manuel,3.7,103,Gri,Sıfır,484640
+Tesla,Model 3,2005,43558,Dizel,Manuel,1.8,78,Siyah,İkinci El,346863
+Ford,Focus,2003,5536,Hibrit,Otomatik,4.0,104,Beyaz,İkinci El,473769
+Toyota,Corolla,2012,133543,Benzin,Manuel,2.8,357,Mavi,Sıfır,259162
+Toyota,Corolla,2013,5897,Hibrit,Manuel,2.5,209,Mavi,İkinci El,420010
+Nissan,Altima,2003,240630,Benzin,Manuel,2.6,246,Gri,Sıfır,274601
+Mercedes,C-Class,2021,50713,Elektrikli,Manuel,3.4,350,Siyah,Sıfır,134540
+Nissan,Altima,2000,48287,Elektrikli,Manuel,2.8,376,Kırmızı,İkinci El,166003
+Nissan,Altima,2020,37561,Hibrit,Manuel,1.6,300,Mavi,Sıfır,320768
+Mercedes,C-Class,2014,238013,Elektrikli,Manuel,2.5,294,Gri,İkinci El,375453
+Nissan,Altima,2003,275357,Elektrikli,Manuel,1.5,351,Siyah,İkinci El,66081
+Nissan,Altima,2017,213183,Dizel,Manuel,3.9,346,Gri,İkinci El,192071
+Ford,Focus,2020,299097,Benzin,Manuel,2.3,247,Beyaz,Sıfır,404969
+Tesla,Model 3,2002,124754,Elektrikli,Otomatik,2.6,181,Gri,İkinci El,387877
+Audi,A4,2019,211754,Dizel,Otomatik,1.3,189,Gri,İkinci El,373401
+Honda,Civic,2011,208184,Dizel,Manuel,1.6,105,Beyaz,Sıfır,208431
+Volkswagen,Golf,2007,136622,Hibrit,Otomatik,1.2,165,Gri,İkinci El,474883
+Nissan,Altima,2013,164708,Dizel,Otomatik,3.8,395,Kırmızı,Sıfır,237673
+Mercedes,C-Class,2010,47833,Elektrikli,Otomatik,2.5,305,Beyaz,Sıfır,211244
+Toyota,Corolla,2023,281986,Dizel,Manuel,3.8,99,Beyaz,İkinci El,223513
+Nissan,Altima,2001,241830,Hibrit,Manuel,2.4,86,Gri,İkinci El,129034
+Toyota,Corolla,2008,278731,Hibrit,Manuel,3.2,189,Gri,İkinci El,240152
+Volkswagen,Golf,2011,166681,Benzin,Otomatik,3.4,99,Beyaz,İkinci El,300471
+Audi,A4,2007,186602,Benzin,Otomatik,3.2,236,Siyah,İkinci El,164728
+Audi,A4,2012,263450,Dizel,Manuel,2.0,177,Gri,İkinci El,494543
+Nissan,Altima,2017,70774,Benzin,Otomatik,4.0,301,Kırmızı,İkinci El,321516
+Honda,Civic,2022,79069,Dizel,Otomatik,1.9,199,Beyaz,Sıfır,185028
+Ford,Focus,2006,86446,Benzin,Manuel,1.8,205,Mavi,İkinci El,339061
+Ford,Focus,2015,268752,Benzin,Manuel,3.0,123,Siyah,İkinci El,463546
+BMW,320i,2023,86690,Benzin,Manuel,1.9,154,Gri,Sıfır,455080
+BMW,320i,2001,271398,Dizel,Manuel,3.3,75,Beyaz,Sıfır,405517
+Mercedes,C-Class,2023,204757,Hibrit,Otomatik,3.7,247,Siyah,İkinci El,349231
+Toyota,Corolla,2024,47305,Benzin,Otomatik,2.5,92,Beyaz,Sıfır,57996
+Nissan,Altima,2021,283487,Hibrit,Otomatik,1.5,100,Mavi,Sıfır,441196
+Audi,A4,2009,25812,Dizel,Manuel,3.1,351,Siyah,Sıfır,295555
+Toyota,Corolla,2013,224788,Hibrit,Otomatik,1.5,173,Kırmızı,Sıfır,450140
+Volkswagen,Golf,2014,237397,Elektrikli,Manuel,2.3,191,Kırmızı,Sıfır,480628
+Tesla,Model 3,2001,54952,Hibrit,Otomatik,2.5,372,Mavi,Sıfır,372149
+Ford,Focus,2001,41515,Hibrit,Otomatik,3.9,246,Mavi,Sıfır,475308
+Ford,Focus,2015,38137,Benzin,Otomatik,1.9,223,Kırmızı,İkinci El,483449
+Nissan,Altima,2005,34985,Hibrit,Otomatik,1.9,354,Beyaz,Sıfır,498358
+Volkswagen,Golf,2021,66704,Dizel,Manuel,1.0,77,Siyah,Sıfır,278865
+BMW,320i,2011,199794,Dizel,Otomatik,1.3,276,Kırmızı,İkinci El,361293
+BMW,320i,2009,93691,Elektrikli,Manuel,1.3,261,Beyaz,İkinci El,125678
+Tesla,Model 3,2013,106279,Hibrit,Otomatik,1.1,268,Mavi,İkinci El,283662
+Mercedes,C-Class,2013,117440,Dizel,Manuel,1.6,147,Gri,İkinci El,451560
+Mercedes,C-Class,2014,216759,Dizel,Manuel,3.3,278,Siyah,İkinci El,304715
+Mercedes,C-Class,2002,284378,Elektrikli,Manuel,1.7,272,Beyaz,Sıfır,478699
+Volkswagen,Golf,2011,247864,Dizel,Manuel,3.8,72,Gri,İkinci El,338231
+Toyota,Corolla,2016,83999,Dizel,Manuel,3.2,238,Beyaz,İkinci El,317329
+BMW,320i,2002,11566,Elektrikli,Otomatik,2.4,250,Siyah,İkinci El,102958
+Ford,Focus,2017,54301,Hibrit,Otomatik,3.4,319,Kırmızı,İkinci El,440959
+BMW,320i,2006,225111,Dizel,Otomatik,2.3,284,Beyaz,İkinci El,398421
+Nissan,Altima,2013,57043,Dizel,Otomatik,2.7,95,Kırmızı,Sıfır,75995
+Mercedes,C-Class,2007,46043,Dizel,Otomatik,2.3,393,Kırmızı,İkinci El,142251
+Audi,A4,2000,183254,Dizel,Otomatik,1.6,245,Siyah,Sıfır,107224
+Volkswagen,Golf,2000,47659,Dizel,Manuel,3.7,300,Gri,İkinci El,290618
+Ford,Focus,2010,170340,Dizel,Otomatik,2.6,322,Gri,Sıfır,441487
+Ford,Focus,2004,209689,Dizel,Otomatik,1.3,392,Mavi,İkinci El,91715
+Audi,A4,2004,278555,Benzin,Manuel,2.2,148,Siyah,Sıfır,175479
+Ford,Focus,2024,68444,Elektrikli,Otomatik,1.6,309,Gri,Sıfır,298781
+Tesla,Model 3,2023,210044,Benzin,Manuel,2.3,132,Mavi,İkinci El,52664
+Nissan,Altima,2021,61812,Hibrit,Otomatik,4.0,133,Beyaz,Sıfır,73604
+BMW,320i,2008,279712,Benzin,Manuel,2.7,132,Gri,Sıfır,230803
+Nissan,Altima,2005,293862,Dizel,Otomatik,1.3,369,Mavi,İkinci El,195942
+Honda,Civic,2016,186998,Dizel,Otomatik,1.2,158,Siyah,İkinci El,352414
+Mercedes,C-Class,2019,172105,Hibrit,Otomatik,2.7,114,Beyaz,İkinci El,461880
+Audi,A4,2005,96641,Elektrikli,Manuel,2.5,385,Gri,Sıfır,228624
+Mercedes,C-Class,2007,183701,Dizel,Manuel,2.4,296,Kırmızı,İkinci El,240342
+BMW,320i,2009,232449,Benzin,Manuel,2.6,342,Kırmızı,Sıfır,113068
+Honda,Civic,2005,2071,Dizel,Otomatik,3.7,240,Siyah,Sıfır,126658
+Mercedes,C-Class,2014,29242,Hibrit,Manuel,1.3,368,Beyaz,İkinci El,109330
+Nissan,Altima,2022,7537,Elektrikli,Manuel,1.2,221,Beyaz,Sıfır,433617
+BMW,320i,2017,89788,Dizel,Otomatik,1.0,154,Siyah,İkinci El,236565
+BMW,320i,2001,80892,Benzin,Otomatik,1.7,95,Mavi,İkinci El,68408
+Honda,Civic,2023,141656,Benzin,Manuel,1.5,362,Beyaz,İkinci El,214624
+Ford,Focus,2001,84957,Benzin,Otomatik,1.0,260,Mavi,İkinci El,264693
+Tesla,Model 3,2017,190871,Elektrikli,Otomatik,1.7,85,Kırmızı,İkinci El,106127
+Nissan,Altima,2015,48739,Benzin,Manuel,1.6,175,Beyaz,Sıfır,82612
+Toyota,Corolla,2007,299129,Benzin,Manuel,3.5,141,Siyah,Sıfır,76570
+Toyota,Corolla,2001,164403,Dizel,Manuel,2.5,269,Beyaz,Sıfır,300825
+BMW,320i,2002,59675,Dizel,Manuel,1.7,250,Mavi,İkinci El,309308
+Nissan,Altima,2006,61661,Benzin,Otomatik,3.7,167,Kırmızı,İkinci El,180112
+Mercedes,C-Class,2004,20975,Elektrikli,Otomatik,2.4,304,Siyah,Sıfır,378999
+Toyota,Corolla,2016,258312,Elektrikli,Otomatik,1.1,114,Beyaz,İkinci El,103602
+Honda,Civic,2018,269794,Elektrikli,Manuel,3.5,246,Beyaz,İkinci El,419550
+Toyota,Corolla,2013,276543,Elektrikli,Manuel,2.5,167,Beyaz,İkinci El,498277
+Honda,Civic,2023,64324,Elektrikli,Otomatik,2.1,262,Siyah,İkinci El,196356
+Tesla,Model 3,2018,84434,Dizel,Manuel,3.0,282,Kırmızı,İkinci El,67029
+Ford,Focus,2002,31670,Benzin,Otomatik,3.9,99,Gri,Sıfır,343282
+Audi,A4,2024,108616,Dizel,Otomatik,1.5,305,Kırmızı,İkinci El,400999
+Ford,Focus,2012,162231,Dizel,Otomatik,1.1,303,Siyah,Sıfır,431319
+Audi,A4,2009,184858,Dizel,Manuel,2.1,373,Gri,Sıfır,208510
+Tesla,Model 3,2008,13814,Elektrikli,Manuel,3.7,400,Kırmızı,Sıfır,248217
+Honda,Civic,2014,198567,Hibrit,Manuel,1.3,157,Beyaz,Sıfır,480322
+Audi,A4,2023,276881,Hibrit,Otomatik,2.5,325,Siyah,Sıfır,114730
+Nissan,Altima,2021,259830,Elektrikli,Manuel,3.9,193,Siyah,İkinci El,303873
+Toyota,Corolla,2007,162129,Elektrikli,Otomatik,3.7,193,Mavi,İkinci El,380130
+Ford,Focus,2005,99994,Hibrit,Manuel,1.1,202,Mavi,Sıfır,347183
+Tesla,Model 3,2005,142474,Benzin,Otomatik,1.7,244,Kırmızı,Sıfır,61011
+Volkswagen,Golf,2016,69246,Benzin,Otomatik,3.5,89,Beyaz,Sıfır,99981
+Volkswagen,Golf,2006,163394,Dizel,Manuel,1.6,80,Siyah,Sıfır,292698
+Honda,Civic,2011,47157,Dizel,Manuel,3.3,380,Siyah,İkinci El,241381
+Volkswagen,Golf,2010,183002,Dizel,Otomatik,2.5,262,Mavi,İkinci El,90613
+Audi,A4,2007,120388,Elektrikli,Manuel,1.1,148,Kırmızı,İkinci El,106554
+Volkswagen,Golf,2007,48094,Elektrikli,Manuel,2.9,162,Beyaz,Sıfır,183727
+Audi,A4,2022,232339,Dizel,Otomatik,3.7,214,Gri,Sıfır,361586
+Honda,Civic,2001,220162,Dizel,Manuel,1.7,77,Kırmızı,İkinci El,156700
+Mercedes,C-Class,2022,63937,Hibrit,Otomatik,3.0,349,Beyaz,Sıfır,161849
+Toyota,Corolla,2005,31335,Benzin,Manuel,1.1,259,Kırmızı,İkinci El,415159
+Audi,A4,2001,205406,Hibrit,Manuel,3.3,325,Mavi,İkinci El,170937
+Honda,Civic,2005,26250,Dizel,Manuel,3.8,94,Kırmızı,İkinci El,420189
+BMW,320i,2012,287472,Benzin,Otomatik,1.9,372,Gri,Sıfır,471314
+Toyota,Corolla,2008,143570,Dizel,Otomatik,3.5,219,Gri,Sıfır,415973
+Toyota,Corolla,2024,59263,Benzin,Manuel,2.2,142,Gri,İkinci El,374048
+Honda,Civic,2002,59932,Benzin,Manuel,1.5,346,Beyaz,Sıfır,265557
+Nissan,Altima,2022,238356,Elektrikli,Otomatik,2.7,319,Siyah,Sıfır,160818
+Toyota,Corolla,2017,55812,Dizel,Otomatik,3.2,67,Mavi,İkinci El,132849
+BMW,320i,2007,140380,Elektrikli,Manuel,2.4,235,Mavi,Sıfır,292447
+Nissan,Altima,2015,270240,Dizel,Otomatik,3.2,266,Mavi,İkinci El,396528
+Mercedes,C-Class,2001,145875,Hibrit,Otomatik,3.0,188,Beyaz,İkinci El,58178
+Honda,Civic,2017,49570,Hibrit,Otomatik,3.7,276,Beyaz,İkinci El,187402
+Ford,Focus,2016,69775,Dizel,Manuel,3.9,223,Beyaz,Sıfır,361445
+Honda,Civic,2023,250086,Benzin,Otomatik,2.2,101,Mavi,Sıfır,389509
+BMW,320i,2020,47959,Hibrit,Manuel,3.3,159,Kırmızı,İkinci El,218905
+Nissan,Altima,2015,108392,Benzin,Manuel,3.2,238,Kırmızı,Sıfır,390324
+Honda,Civic,2002,26208,Hibrit,Manuel,1.2,199,Kırmızı,İkinci El,148205
+Honda,Civic,2007,45429,Benzin,Manuel,3.1,292,Gri,Sıfır,316716
+Volkswagen,Golf,2017,59265,Dizel,Otomatik,1.7,310,Mavi,Sıfır,156499
+Honda,Civic,2013,201788,Dizel,Manuel,3.5,122,Gri,İkinci El,218961
+Nissan,Altima,2024,114003,Hibrit,Otomatik,1.2,73,Kırmızı,Sıfır,211986
+BMW,320i,2005,125908,Elektrikli,Otomatik,1.7,228,Kırmızı,Sıfır,282018
+Ford,Focus,2017,133099,Elektrikli,Otomatik,2.1,97,Gri,İkinci El,325832
+Ford,Focus,2023,192571,Hibrit,Manuel,2.7,240,Siyah,İkinci El,165072
+Volkswagen,Golf,2008,266247,Benzin,Otomatik,3.9,398,Gri,İkinci El,303018
+Toyota,Corolla,2024,221641,Hibrit,Otomatik,2.3,179,Gri,Sıfır,98957
+Ford,Focus,2023,143975,Benzin,Manuel,2.2,143,Kırmızı,Sıfır,484445
+Audi,A4,2004,50207,Benzin,Manuel,3.6,159,Kırmızı,Sıfır,57772
+Audi,A4,2012,230590,Benzin,Otomatik,2.9,349,Gri,Sıfır,303219
+Toyota,Corolla,2023,159391,Hibrit,Otomatik,2.1,337,Siyah,Sıfır,234461
+Toyota,Corolla,2019,15558,Elektrikli,Otomatik,4.0,117,Gri,İkinci El,395119
+Volkswagen,Golf,2004,188012,Elektrikli,Manuel,1.4,356,Kırmızı,Sıfır,361851
+Nissan,Altima,2018,157720,Elektrikli,Manuel,2.2,379,Mavi,Sıfır,305482
+Nissan,Altima,2017,7695,Dizel,Manuel,2.4,208,Siyah,Sıfır,216463
+Nissan,Altima,2012,180624,Elektrikli,Manuel,3.6,61,Kırmızı,İkinci El,416404
+Volkswagen,Golf,2023,58736,Dizel,Manuel,3.6,266,Beyaz,Sıfır,178975
+Toyota,Corolla,2019,279256,Hibrit,Manuel,2.2,154,Siyah,Sıfır,136000
+Audi,A4,2020,63779,Dizel,Otomatik,1.1,224,Siyah,Sıfır,203111
+Tesla,Model 3,2012,150054,Benzin,Otomatik,2.6,161,Kırmızı,İkinci El,101778
+Audi,A4,2000,79154,Dizel,Otomatik,2.2,269,Gri,Sıfır,343439
+Tesla,Model 3,2003,117471,Hibrit,Otomatik,2.2,282,Mavi,Sıfır,119054
+Ford,Focus,2015,290784,Hibrit,Manuel,1.9,65,Siyah,İkinci El,114805
+Mercedes,C-Class,2015,72974,Benzin,Manuel,2.2,343,Siyah,İkinci El,235807
+Nissan,Altima,2014,269856,Benzin,Manuel,3.3,181,Beyaz,Sıfır,222766
+Ford,Focus,2008,64756,Dizel,Manuel,3.2,144,Gri,Sıfır,63070
+Ford,Focus,2013,176715,Hibrit,Manuel,2.0,372,Siyah,İkinci El,188474
+Nissan,Altima,2021,40170,Dizel,Manuel,1.9,231,Gri,İkinci El,430399
+Audi,A4,2002,29789,Dizel,Manuel,1.1,352,Mavi,İkinci El,409384
+Ford,Focus,2006,132883,Elektrikli,Manuel,2.9,308,Siyah,İkinci El,478557
+Toyota,Corolla,2005,10731,Benzin,Manuel,1.8,373,Gri,Sıfır,448711
+Honda,Civic,2020,68665,Hibrit,Manuel,1.0,372,Beyaz,İkinci El,266170
+Mercedes,C-Class,2020,123182,Hibrit,Manuel,2.3,125,Siyah,İkinci El,55058
+Ford,Focus,2020,248011,Elektrikli,Manuel,2.2,372,Kırmızı,İkinci El,129550
+Nissan,Altima,2016,273163,Hibrit,Otomatik,2.9,165,Mavi,İkinci El,145076
+Volkswagen,Golf,2009,33359,Elektrikli,Otomatik,2.9,76,Kırmızı,İkinci El,319008
+Audi,A4,2018,227296,Dizel,Manuel,3.2,369,Gri,Sıfır,430828
+BMW,320i,2005,249784,Dizel,Otomatik,1.5,206,Kırmızı,Sıfır,443638
+Toyota,Corolla,2020,272380,Dizel,Manuel,1.3,176,Gri,Sıfır,335695
+Volkswagen,Golf,2002,32198,Hibrit,Manuel,2.7,296,Gri,İkinci El,89613
+Toyota,Corolla,2013,145293,Dizel,Otomatik,1.3,76,Mavi,İkinci El,312653
+BMW,320i,2009,149071,Hibrit,Manuel,3.7,266,Mavi,İkinci El,497947
+Ford,Focus,2000,177662,Benzin,Manuel,1.5,220,Mavi,İkinci El,245842
+BMW,320i,2009,288433,Benzin,Manuel,3.0,206,Beyaz,Sıfır,369873
+Ford,Focus,2004,285558,Hibrit,Manuel,3.4,316,Kırmızı,Sıfır,348365
+Honda,Civic,2004,281112,Benzin,Manuel,2.8,281,Mavi,İkinci El,81998
+Tesla,Model 3,2009,91419,Hibrit,Otomatik,4.0,245,Kırmızı,Sıfır,130560
+Ford,Focus,2008,134431,Benzin,Otomatik,3.0,224,Mavi,Sıfır,356956
+Mercedes,C-Class,2021,223449,Benzin,Manuel,2.1,212,Gri,İkinci El,250696
+Volkswagen,Golf,2018,169915,Elektrikli,Otomatik,2.6,210,Siyah,Sıfır,459452
+Toyota,Corolla,2002,275472,Hibrit,Manuel,2.4,64,Beyaz,İkinci El,354088
+Toyota,Corolla,2024,122610,Benzin,Manuel,2.5,346,Siyah,İkinci El,431067
+Nissan,Altima,2020,11626,Dizel,Otomatik,2.0,282,Siyah,İkinci El,477279
+Nissan,Altima,2014,25844,Dizel,Manuel,1.7,106,Kırmızı,İkinci El,341330
+Toyota,Corolla,2001,111285,Hibrit,Manuel,2.4,282,Kırmızı,Sıfır,346012
+Ford,Focus,2016,261694,Elektrikli,Manuel,2.2,125,Beyaz,İkinci El,195123
+Mercedes,C-Class,2018,224496,Hibrit,Manuel,3.9,322,Siyah,Sıfır,249121
+Volkswagen,Golf,2000,158153,Dizel,Manuel,3.1,122,Gri,Sıfır,465333
+Honda,Civic,2016,159652,Dizel,Manuel,3.4,163,Mavi,Sıfır,450115
+Tesla,Model 3,2004,289258,Benzin,Manuel,2.3,74,Kırmızı,Sıfır,372989
+BMW,320i,2016,31100,Elektrikli,Otomatik,1.9,60,Mavi,İkinci El,326418
+Honda,Civic,2023,199124,Elektrikli,Otomatik,2.6,331,Kırmızı,İkinci El,498898
+Nissan,Altima,2019,209676,Hibrit,Otomatik,2.7,94,Siyah,Sıfır,135063
+BMW,320i,2021,20654,Dizel,Otomatik,1.7,137,Gri,İkinci El,170212
+Honda,Civic,2006,244832,Dizel,Otomatik,1.2,379,Mavi,Sıfır,234938
+Honda,Civic,2008,86017,Dizel,Manuel,2.5,125,Beyaz,İkinci El,462023
+BMW,320i,2018,214796,Elektrikli,Manuel,2.0,338,Beyaz,İkinci El,397543
+Mercedes,C-Class,2019,101483,Hibrit,Manuel,2.3,74,Gri,Sıfır,106419
+Volkswagen,Golf,2018,47204,Elektrikli,Otomatik,3.4,194,Beyaz,Sıfır,322574
+Nissan,Altima,2008,49472,Hibrit,Otomatik,4.0,221,Siyah,İkinci El,396537
+Mercedes,C-Class,2017,96554,Elektrikli,Otomatik,3.4,178,Siyah,İkinci El,61015
+Tesla,Model 3,2010,129547,Hibrit,Otomatik,4.0,338,Siyah,İkinci El,459029
+Ford,Focus,2006,236393,Benzin,Otomatik,4.0,134,Siyah,Sıfır,243431
+Nissan,Altima,2012,279766,Dizel,Otomatik,2.1,289,Mavi,İkinci El,340405
+Honda,Civic,2002,109508,Elektrikli,Otomatik,2.9,112,Gri,İkinci El,319927
+Volkswagen,Golf,2012,117615,Elektrikli,Manuel,2.1,348,Beyaz,İkinci El,352342
+Ford,Focus,2006,44627,Hibrit,Manuel,3.2,222,Beyaz,Sıfır,458504
+Ford,Focus,2010,32445,Dizel,Otomatik,2.4,188,Siyah,Sıfır,456829
+Honda,Civic,2020,14330,Dizel,Otomatik,3.3,109,Beyaz,İkinci El,144020
+Ford,Focus,2023,199052,Hibrit,Manuel,3.6,397,Siyah,İkinci El,290733
+Audi,A4,2015,5663,Hibrit,Otomatik,3.5,374,Kırmızı,Sıfır,264280
+Nissan,Altima,2008,153775,Benzin,Manuel,2.5,182,Kırmızı,İkinci El,200737
+Audi,A4,2017,32242,Dizel,Otomatik,2.6,61,Gri,Sıfır,456921
+Nissan,Altima,2024,273125,Dizel,Otomatik,3.2,195,Kırmızı,İkinci El,187065
+Audi,A4,2014,167700,Elektrikli,Manuel,3.5,272,Mavi,İkinci El,463087
+Nissan,Altima,2008,86203,Dizel,Otomatik,2.4,334,Kırmızı,Sıfır,54163
+Honda,Civic,2004,14152,Elektrikli,Manuel,2.5,100,Kırmızı,Sıfır,85274
+Honda,Civic,2010,203896,Hibrit,Manuel,1.6,232,Gri,İkinci El,445131
+BMW,320i,2014,277123,Dizel,Manuel,1.4,343,Mavi,Sıfır,454446
+Volkswagen,Golf,2022,170986,Dizel,Otomatik,2.7,210,Beyaz,Sıfır,308051
+Volkswagen,Golf,2023,114613,Dizel,Otomatik,2.4,352,Gri,Sıfır,297907
+Audi,A4,2012,242967,Hibrit,Manuel,1.2,204,Beyaz,Sıfır,109758
+Mercedes,C-Class,2001,98639,Benzin,Manuel,4.0,264,Beyaz,Sıfır,210325
+Nissan,Altima,2013,198391,Dizel,Manuel,1.3,303,Mavi,Sıfır,382175
+Tesla,Model 3,2012,236695,Elektrikli,Manuel,3.7,77,Siyah,Sıfır,190763
+Ford,Focus,2013,199304,Hibrit,Manuel,2.2,308,Mavi,İkinci El,370854
+Honda,Civic,2012,180778,Dizel,Manuel,3.7,332,Mavi,Sıfır,478368
+Nissan,Altima,2020,213650,Benzin,Otomatik,2.7,180,Gri,Sıfır,84447
+BMW,320i,2016,31360,Hibrit,Manuel,1.5,167,Beyaz,Sıfır,369265
+Audi,A4,2024,261946,Hibrit,Otomatik,1.0,267,Mavi,İkinci El,266870
+Honda,Civic,2001,84110,Dizel,Manuel,2.4,142,Beyaz,Sıfır,174600
+Tesla,Model 3,2014,68843,Elektrikli,Otomatik,1.6,312,Mavi,Sıfır,103711
+Tesla,Model 3,2013,294513,Benzin,Manuel,2.2,399,Mavi,İkinci El,148600
+Ford,Focus,2015,11366,Benzin,Otomatik,3.3,62,Kırmızı,İkinci El,428982
+Tesla,Model 3,2017,179233,Hibrit,Otomatik,3.6,162,Kırmızı,Sıfır,120697
+Volkswagen,Golf,2009,213557,Dizel,Otomatik,1.9,275,Beyaz,Sıfır,123990
+Toyota,Corolla,2012,228595,Elektrikli,Manuel,1.7,215,Beyaz,İkinci El,352229
+Toyota,Corolla,2006,185611,Dizel,Otomatik,1.9,289,Beyaz,İkinci El,195240
+Audi,A4,2001,8026,Benzin,Otomatik,2.7,159,Gri,İkinci El,363338
+Toyota,Corolla,2008,16238,Dizel,Otomatik,3.5,345,Gri,İkinci El,407486
+Toyota,Corolla,2002,151725,Hibrit,Manuel,1.6,399,Kırmızı,İkinci El,81589
+Nissan,Altima,2015,230265,Dizel,Otomatik,1.5,138,Mavi,Sıfır,463352
+Honda,Civic,2005,199569,Benzin,Otomatik,1.3,147,Gri,Sıfır,212205
+Volkswagen,Golf,2011,45257,Dizel,Manuel,4.0,400,Mavi,Sıfır,151997
+Toyota,Corolla,2024,197100,Elektrikli,Manuel,2.3,121,Kırmızı,Sıfır,144033
+Honda,Civic,2000,34037,Benzin,Manuel,2.4,208,Mavi,Sıfır,438983
+Tesla,Model 3,2015,88262,Elektrikli,Otomatik,3.6,258,Gri,Sıfır,319079
+Tesla,Model 3,2019,167145,Hibrit,Otomatik,3.1,211,Kırmızı,İkinci El,469711
+Audi,A4,2023,216813,Elektrikli,Manuel,1.9,326,Siyah,İkinci El,417065
+BMW,320i,2015,223716,Hibrit,Otomatik,2.4,175,Kırmızı,Sıfır,172080
+Honda,Civic,2020,258282,Hibrit,Manuel,2.0,373,Mavi,İkinci El,62455
+Ford,Focus,2000,25249,Benzin,Manuel,3.4,218,Mavi,Sıfır,385241
+Volkswagen,Golf,2022,138902,Benzin,Manuel,2.8,170,Kırmızı,İkinci El,245842
+Toyota,Corolla,2008,92638,Benzin,Otomatik,2.3,135,Gri,İkinci El,159263
+Audi,A4,2011,5446,Benzin,Manuel,3.1,195,Siyah,Sıfır,138763
+Tesla,Model 3,2022,290429,Dizel,Manuel,3.6,119,Beyaz,İkinci El,447838
+Honda,Civic,2008,79917,Elektrikli,Otomatik,1.7,338,Mavi,Sıfır,426749
+BMW,320i,2024,72553,Elektrikli,Otomatik,1.5,164,Mavi,İkinci El,174960
+Volkswagen,Golf,2010,160347,Benzin,Manuel,2.1,94,Kırmızı,Sıfır,420131
+Tesla,Model 3,2019,113275,Elektrikli,Otomatik,1.8,170,Mavi,Sıfır,103812
+Volkswagen,Golf,2023,177698,Benzin,Otomatik,3.0,289,Siyah,İkinci El,59618
+Toyota,Corolla,2003,126139,Elektrikli,Manuel,3.4,217,Mavi,Sıfır,87152
+BMW,320i,2016,141935,Benzin,Otomatik,3.5,329,Gri,İkinci El,271201
+Nissan,Altima,2014,187504,Dizel,Otomatik,2.3,63,Siyah,İkinci El,385387
+Mercedes,C-Class,2003,295417,Elektrikli,Otomatik,1.3,362,Beyaz,İkinci El,309745
+Ford,Focus,2006,147199,Dizel,Otomatik,4.0,134,Beyaz,Sıfır,473695
+Toyota,Corolla,2020,217311,Elektrikli,Manuel,3.0,286,Gri,İkinci El,401901
+Honda,Civic,2023,109372,Hibrit,Otomatik,1.4,277,Beyaz,İkinci El,367993
+Honda,Civic,2008,105382,Elektrikli,Otomatik,3.8,189,Mavi,İkinci El,303503
+Nissan,Altima,2004,436,Benzin,Otomatik,1.9,163,Siyah,Sıfır,470264
+Ford,Focus,2012,70939,Benzin,Manuel,1.4,85,Kırmızı,Sıfır,204919
+Mercedes,C-Class,2014,169946,Hibrit,Manuel,2.8,135,Beyaz,İkinci El,252217
+Mercedes,C-Class,2014,64407,Hibrit,Otomatik,2.1,144,Gri,İkinci El,331276
+Volkswagen,Golf,2016,202909,Dizel,Otomatik,2.8,221,Mavi,Sıfır,57847
+Honda,Civic,2014,152449,Elektrikli,Otomatik,2.8,203,Mavi,İkinci El,371934
+Mercedes,C-Class,2005,257407,Dizel,Otomatik,1.1,140,Beyaz,İkinci El,417328
+Nissan,Altima,2023,200747,Benzin,Manuel,3.0,138,Beyaz,İkinci El,313577
+Nissan,Altima,2010,82803,Elektrikli,Otomatik,3.4,267,Mavi,Sıfır,315598
+Honda,Civic,2013,105156,Elektrikli,Otomatik,2.5,236,Beyaz,Sıfır,212546
+Volkswagen,Golf,2006,5911,Elektrikli,Manuel,2.7,183,Gri,Sıfır,378170
+Ford,Focus,2022,141373,Dizel,Manuel,2.2,347,Mavi,Sıfır,301090
+Mercedes,C-Class,2007,253562,Benzin,Manuel,1.7,78,Beyaz,İkinci El,343983
+Toyota,Corolla,2024,21993,Hibrit,Otomatik,2.2,95,Mavi,İkinci El,81532
+Honda,Civic,2010,265120,Dizel,Manuel,2.0,232,Gri,İkinci El,491970
+Ford,Focus,2007,259006,Elektrikli,Manuel,1.0,129,Siyah,Sıfır,357195
+Ford,Focus,2019,43649,Dizel,Otomatik,1.3,314,Beyaz,Sıfır,223077
+Ford,Focus,2018,140127,Benzin,Manuel,2.4,282,Mavi,İkinci El,466766
+Toyota,Corolla,2020,90223,Elektrikli,Manuel,3.1,216,Kırmızı,İkinci El,175291
+BMW,320i,2012,70298,Benzin,Otomatik,2.2,268,Kırmızı,İkinci El,481147
+Audi,A4,2017,266255,Elektrikli,Manuel,2.1,334,Siyah,İkinci El,466512
+Audi,A4,2017,104772,Hibrit,Otomatik,1.3,137,Beyaz,Sıfır,185676
+Toyota,Corolla,2014,23131,Dizel,Otomatik,1.6,220,Siyah,Sıfır,451621
+Toyota,Corolla,2001,208416,Benzin,Otomatik,2.8,108,Beyaz,Sıfır,276209
+Toyota,Corolla,2018,162514,Elektrikli,Otomatik,3.5,242,Gri,İkinci El,285480
+Tesla,Model 3,2007,212434,Hibrit,Otomatik,3.2,143,Siyah,İkinci El,230998
+Toyota,Corolla,2009,46886,Elektrikli,Manuel,1.7,219,Gri,Sıfır,232465
+Mercedes,C-Class,2019,41093,Benzin,Manuel,3.2,115,Mavi,İkinci El,462729
+Honda,Civic,2023,154676,Elektrikli,Otomatik,3.2,385,Mavi,İkinci El,251757
+Audi,A4,2016,30284,Elektrikli,Otomatik,3.6,336,Mavi,Sıfır,242413
+Toyota,Corolla,2020,155549,Hibrit,Otomatik,2.5,361,Kırmızı,İkinci El,292604
+Toyota,Corolla,2000,93491,Elektrikli,Manuel,3.3,292,Beyaz,Sıfır,422550
+Honda,Civic,2016,224641,Elektrikli,Otomatik,3.0,316,Gri,İkinci El,467818
+Volkswagen,Golf,2016,187922,Elektrikli,Otomatik,1.3,374,Siyah,Sıfır,374042
+BMW,320i,2005,112926,Elektrikli,Otomatik,3.0,152,Siyah,İkinci El,263013
+Toyota,Corolla,2001,258621,Benzin,Manuel,2.9,143,Beyaz,İkinci El,476372
+Ford,Focus,2024,118225,Elektrikli,Otomatik,1.8,330,Kırmızı,İkinci El,123434
+Mercedes,C-Class,2005,59904,Benzin,Otomatik,3.9,229,Siyah,Sıfır,488919
+Tesla,Model 3,2007,299358,Hibrit,Manuel,3.7,354,Mavi,Sıfır,234321
+Honda,Civic,2004,82814,Dizel,Otomatik,3.3,84,Kırmızı,İkinci El,139726
+Volkswagen,Golf,2023,117425,Benzin,Otomatik,2.7,286,Mavi,Sıfır,182598
+Ford,Focus,2002,4403,Hibrit,Otomatik,4.0,309,Siyah,İkinci El,486034
+Honda,Civic,2009,25855,Benzin,Otomatik,1.0,218,Gri,Sıfır,405383
+Ford,Focus,2003,212897,Dizel,Otomatik,1.2,358,Beyaz,Sıfır,150925
+Honda,Civic,2010,268790,Elektrikli,Manuel,3.2,64,Siyah,Sıfır,497209
+Toyota,Corolla,2014,288529,Elektrikli,Manuel,2.5,228,Gri,Sıfır,289423
+Volkswagen,Golf,2000,100122,Dizel,Manuel,1.0,105,Kırmızı,Sıfır,67825
+Honda,Civic,2014,8334,Hibrit,Manuel,3.4,323,Gri,İkinci El,241113
+Tesla,Model 3,2022,60999,Dizel,Otomatik,1.2,264,Mavi,Sıfır,53179
+Mercedes,C-Class,2009,196597,Elektrikli,Manuel,3.2,110,Beyaz,İkinci El,356569
+Ford,Focus,2014,20353,Dizel,Otomatik,3.8,207,Beyaz,İkinci El,256045
+Audi,A4,2000,206778,Elektrikli,Otomatik,2.3,174,Mavi,Sıfır,284527
+Mercedes,C-Class,2005,295293,Elektrikli,Otomatik,1.5,100,Beyaz,İkinci El,169933
+Honda,Civic,2023,233802,Dizel,Manuel,2.7,287,Siyah,Sıfır,296996
+Tesla,Model 3,2015,49651,Benzin,Manuel,1.2,85,Gri,İkinci El,393220
+Ford,Focus,2007,296333,Elektrikli,Manuel,3.6,286,Beyaz,İkinci El,107654
+Tesla,Model 3,2012,183808,Benzin,Otomatik,3.0,128,Gri,İkinci El,91359
+Volkswagen,Golf,2009,206494,Benzin,Manuel,1.3,328,Mavi,İkinci El,151228
+Toyota,Corolla,2009,154107,Benzin,Manuel,3.9,208,Beyaz,Sıfır,354093
+Ford,Focus,2001,211514,Elektrikli,Otomatik,1.8,207,Kırmızı,İkinci El,302947
+BMW,320i,2019,68873,Dizel,Otomatik,3.4,287,Mavi,Sıfır,111146
+BMW,320i,2014,214205,Elektrikli,Manuel,2.2,205,Siyah,Sıfır,158404
+Toyota,Corolla,2011,106183,Benzin,Otomatik,3.3,179,Beyaz,Sıfır,439453
+Tesla,Model 3,2021,283102,Elektrikli,Otomatik,2.9,303,Beyaz,İkinci El,360934
+Volkswagen,Golf,2013,247508,Dizel,Manuel,1.7,374,Beyaz,İkinci El,379040
+Nissan,Altima,2015,109067,Hibrit,Manuel,3.9,308,Siyah,İkinci El,92126
+Volkswagen,Golf,2009,51742,Dizel,Otomatik,2.6,124,Siyah,İkinci El,368274
+Volkswagen,Golf,2023,96637,Elektrikli,Manuel,3.0,64,Siyah,Sıfır,85765
+Toyota,Corolla,2013,70683,Benzin,Manuel,3.2,341,Siyah,İkinci El,327089
+Honda,Civic,2015,248924,Benzin,Manuel,1.0,337,Gri,Sıfır,368261
+Tesla,Model 3,2020,4337,Hibrit,Otomatik,3.6,147,Mavi,Sıfır,359542
+Audi,A4,2001,80700,Dizel,Otomatik,3.1,285,Beyaz,İkinci El,285553
+Nissan,Altima,2008,139451,Benzin,Otomatik,2.8,161,Kırmızı,İkinci El,260966
+Volkswagen,Golf,2007,9090,Hibrit,Manuel,2.5,86,Siyah,İkinci El,98337
+Toyota,Corolla,2013,131586,Benzin,Otomatik,2.2,319,Mavi,Sıfır,437411
+Nissan,Altima,2000,126572,Hibrit,Manuel,3.1,386,Mavi,İkinci El,371074
+Nissan,Altima,2009,196812,Benzin,Manuel,2.2,291,Kırmızı,İkinci El,307127
+Volkswagen,Golf,2021,17111,Benzin,Otomatik,3.8,118,Gri,İkinci El,448548
+Honda,Civic,2010,208626,Elektrikli,Otomatik,3.0,129,Mavi,Sıfır,204856
+Mercedes,C-Class,2013,150822,Elektrikli,Otomatik,1.0,64,Beyaz,İkinci El,84969
+Ford,Focus,2020,36,Hibrit,Manuel,3.2,288,Kırmızı,İkinci El,75854
+BMW,320i,2006,29023,Elektrikli,Manuel,2.4,190,Gri,Sıfır,302313
+Toyota,Corolla,2011,31056,Dizel,Manuel,1.0,208,Siyah,İkinci El,413407
+Honda,Civic,2023,268759,Dizel,Otomatik,2.2,295,Gri,İkinci El,181951
+Toyota,Corolla,2004,266456,Elektrikli,Otomatik,3.6,102,Siyah,Sıfır,167651
+Ford,Focus,2005,21710,Dizel,Manuel,2.5,179,Gri,İkinci El,210246
+Ford,Focus,2018,284891,Elektrikli,Otomatik,1.4,61,Kırmızı,İkinci El,342713
+Honda,Civic,2019,287899,Elektrikli,Manuel,1.6,388,Mavi,İkinci El,292932
+BMW,320i,2002,172445,Hibrit,Manuel,3.9,103,Mavi,İkinci El,133691
